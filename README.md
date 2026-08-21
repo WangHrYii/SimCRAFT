@@ -1,4 +1,4 @@
-# SimCRAFT EMNLP 2026 Main
+# **SimCRAFT** （EMNLP 2026 Main）
 
 > Official repository for **"SimCRAFT: Distilling Remote Sensing Agents via Synthetic Trajectories and Contextual Retrieval-Augmented Fine-Tuning"**.
 
