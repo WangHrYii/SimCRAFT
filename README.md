@@ -1,8 +1,11 @@
-# SimCRAFT
+# SimCRAFT EMNLP 2026 Main
 
 > Official repository for **"SimCRAFT: Distilling Remote Sensing Agents via Synthetic Trajectories and Contextual Retrieval-Augmented Fine-Tuning"**.
 
 SimCRAFT distills expert-level remote sensing agent capabilities into a compact 7B model through synthetic trajectory generation and contextual retrieval-augmented fine-tuning, achieving GPT-4-level planning performance with ~100× fewer parameters.
+
+## News
+- Our paper has been accepted as main conference in **EMNLP 2026**
 
 ## 🚧 Release Status
 
