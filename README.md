@@ -26,10 +26,11 @@ Please ⭐️ the repository to stay updated.
 ## 📑 Citation
 
 ```bibtex
-@inproceedings{simcraft2026,
-  title     = {SimCRAFT: Distilling Remote Sensing Agents via Synthetic Trajectories and Contextual Retrieval-Augmented Fine-Tuning},
-  author    = {Anonymous},
-  booktitle = {To be accepta},
-  year      = {2026}
+@article{wang2026simcraft,
+      title={SimCRAFT: Distilling Remote Sensing Agents via Synthetic Trajectories and Contextual Retrieval-Augmented Fine-Tuning}, 
+      author={Wang, Haoran and Yao, Jing and Yang, Xu and Wang, Zeqing and Zhang, Yang and Ghamisi, Pedram and Chen, Zhengchao},
+      journal={arXiv preprint arXiv:2608.30277},
+      year={2026},
+      url={https://arxiv.org/abs/2608.30277}
 }
 ```
